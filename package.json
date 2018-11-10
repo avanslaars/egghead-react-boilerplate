@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/avanslaars/egghead-react-boilerplate#readme",
   "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.5",
+    "@babel/preset-env": "^7.1.5",
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2"
   }

@@ -33,3 +33,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.warning {
+  color:blue;
+}

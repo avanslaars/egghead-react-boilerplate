@@ -49,6 +49,7 @@
     "jest-dom": "^2.1.1",
     "prettier": "^1.15.2",
     "pretty-quick": "^1.8.0",
+    "react-axe": "^3.0.2",
     "react-testing-library": "^5.2.3",
     "style-loader": "^0.23.1",
     "webpack": "^4.25.1",
